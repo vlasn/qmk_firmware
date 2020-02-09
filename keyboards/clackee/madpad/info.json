@@ -1,0 +1,45 @@
+{
+    "keyboard_name": "Quefrency",
+    "url": "https://keeb.io",
+    "maintainer": "nooges",
+    "width": 17,
+    "height": 5,
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"Esc", "x":0, "y":0},
+                {"label":"1", "x":1, "y":0},
+                {"label":"2", "x":2, "y":0},
+                {"label":"3", "x":3, "y":0},
+                {"label":"4", "x":4, "y":0},
+                {"label":"5", "x":5, "y":0},
+                {"label":"6", "x":6, "y":0},
+
+                {"label":"7", "x":1, "y":1},
+                {"label":"8", "x":2, "y":1},
+                {"label":"9", "x":3, "y":1},
+                {"label":"0", "x":4, "y":1},
+                {"label":"-", "x":5, "y":1},
+                {"label":"=", "x":6, "y":1},
+                {"label":"Del", "x":7, "y":1},
+                {"label":"Bksp", "x":8, "y":1},
+
+                {"label":"Tab", "x":0, "y":1, "w":1.5},
+                {"label":"Q", "x":1.5, "y":1},
+                {"label":"W", "x":2.5, "y":1},
+                {"label":"E", "x":3.5, "y":1},
+                {"label":"R", "x":4.5, "y":1},
+                {"label":"T", "x":5.5, "y":1},
+
+                {"label":"Y", "x":7.5, "y":1},
+                {"label":"U", "x":8.5, "y":1},
+                {"label":"I", "x":9.5, "y":1},
+                {"label":"O", "x":10.5, "y":1},
+                {"label":"P", "x":11.5, "y":1},
+                {"label":"[", "x":12.5, "y":1},
+                {"label":"]", "x":13.5, "y":1},
+                {"label":"Backslash", "x":14.5, "y":1, "w":1.5}
+            ]
+        }
+      }
+}
